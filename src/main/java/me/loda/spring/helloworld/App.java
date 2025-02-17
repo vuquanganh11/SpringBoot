@@ -1,4 +1,4 @@
-package me.loda.spring.helloworld;
+package me.vqa.spring.helloworld;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
